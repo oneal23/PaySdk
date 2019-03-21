@@ -1,0 +1,1 @@
+include ':app', ':psdk', ':psdk-core', ':psdk-google', ':psdk-alipay', ':psdk-wechat'
