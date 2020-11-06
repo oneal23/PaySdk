@@ -1,1 +1,27 @@
-# PaySdk 支持微信，支付宝，google
+# PaySdk
+
+#### 项目介绍
+支付方式支持微信、支付、google
+
+#### 软件架构
+android组件化
+
+
+#### 安装教程
+
+1. xxxx
+2. xxxx
+3. xxxx
+
+#### 使用说明
+
+1. xxxx
+2. xxxx
+3. xxxx
+
+#### 参与贡献
+
+1. Fork 本项目
+2. 新建 Feat_xxx 分支
+3. 提交代码
+4. 新建 Pull Request
